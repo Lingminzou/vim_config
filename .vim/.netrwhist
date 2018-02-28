@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/zoulm_szsw/work/ms6488-dvb-c1/V33/MS6488_Australia_GP/projects/msrv/system_database'
-let g:netrw_dirhist_2='/home/zoulm_szsw/work/ms6488-dvb-c1/V33/MS6488_Australia_GP/projects/msrv/system_database/src'
-let g:netrw_dirhist_3='/home/zoulm_szsw/work/ms6488-dvb-c1/develop/MS6488_Australia_GP/projects'
-let g:netrw_dirhist_4='/home/zoulm_szsw/work/ms6488-dvb-c1/develop/MS6488_Australia_GP/projects/ui'
-let g:netrw_dirhist_5='/home/zoulm_szsw/work/ms6488-dvb-c1/develop/MS6488_Australia_GP/projects/ui/nebula'
-let g:netrw_dirhist_6='/home/zoulm_szsw/work/ms6488-dvb-c1/develop/MS6488_Australia_GP/projects/ui/nebula/dvbt_FHD_GP'
-let g:netrw_dirhist_7='/home/zoulm_szsw/work/ms6488-dvb-c1/develop/MS6488_Australia_GP/projects/ui/nebula/dvbt_FHD_GP/src'
