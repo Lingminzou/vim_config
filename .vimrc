@@ -87,7 +87,7 @@ set autoread
 " 映射 F5 键执行 ctags 生成数据库
 nnoremap <F5> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 
-" ------------------- cscope ---------------------:w
+" ------------------- cscope ---------------------
 
 if has("cscope")
  set csprg=/usr/bin/cscope
