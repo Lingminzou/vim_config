@@ -7,7 +7,7 @@ set  nocp
 let mapleader=";"
 
 " 映射 mg 按键调用 vimgrep 查找当前光标处的单词
-map <Leader>g :vimgrep /<C-R>=expand("<cword>")<CR>/gj **/*.h **/*.cpp
+map <Leader>g :vimgrep /<C-R>=expand("<cword>")<CR>/gj **/*.h **/*.c **/*.cpp **/*.java
 
 " 定义快捷键保存当前窗口内容
 nmap <Leader>w :w<CR>
@@ -156,6 +156,10 @@ Plugin 'majutsushi/tagbar'
 Plugin 'vim-scripts/taglist.vim'
 
 Plugin 'altercation/vim-colors-solarized'
+
+Plugin 'jiangmiao/auto-pairs'
+
+Plugin 'scrooloose/nerdcommenter'
 
 "Plugin 'octol/vim-cpp-enhanced-highlight'
 
